@@ -1,1 +1,1 @@
-My first readme
+fortune mohammed is my name
